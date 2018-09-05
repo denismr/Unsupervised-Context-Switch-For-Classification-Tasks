@@ -4,6 +4,6 @@ Supplemental material for the paper.
 
 | Info             | Details                 |
 | -----------------|-------------------------|
-| **Paper status** | IN PRESS                |
+| **Paper status** | PUBLISHED               |
 | **DOI**          | 10.1145/3167132.3167189 |
 | **URL**          | _coming soon_           |
